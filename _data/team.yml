@@ -4,13 +4,13 @@
   role: Assistant Professor
   image: assets/theme/images/members/sjk.png
   description: >
-    # Professional Appointments
+    - Professional Appointments
       - Assistant Professor. Chemical Engineering, Sungkyunkwan University (SKKU), 2021.03 - Present   
       - Senior Researcher. Advanced Materials Technology Research Division, Korea Institute of Science and Technology (KIST), 2019.03 - 2021.02   
       - Research Engineer. Future Convergence Technology Research Division, Korea Institute of Science and Technology (KIST), 2014.03 - 2019.02   
       - Researcher. Material Research Department, Korea Institute of Science and Technology (KIST), 2014.03 - 2019.02   
 
-    # Academic Education
+    - Academic Education
       - Ph.D. Chemical Engineering, Massachusetts Institute of Technology (MIT), 2013.06   
       - M.S. Chemical and Biological Engineering, Seoul National University, 2004.02   
       - B.S. Chemical and Biological Engineering, Seoul National University, 2002.02   
@@ -19,7 +19,8 @@
 
 - name: Taewoo Kang
   role: M.S. candidate # Will appear next to name
-  image: assets/theme/images/members/twk.JPG # Can be external link
+  image: assets/theme/images/members/twk.jpeg # Can be external link
+  email: kangtw97@skku.edu
   #description: > # Can be Markdown
     #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   #orcid: 0000-0000-0000-0000
@@ -33,11 +34,13 @@
 - name: Seong-Gyun Im
   role: M.S. candidate # Will appear next to name
   image: assets/theme/images/members/sgi.jpeg # Can be external link
+  email: isk0110@skku.edu
   #description: > # Can be Markdown
     #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
 
 - name: In-Young Jung
   role: M.S. candidate # Will appear next to name
-  image: assets/theme/images/members/iyj.JPG # Can be external link
+  image: assets/theme/images/members/iyj.jpeg # Can be external link
+  email: dadad1018@skku.edu
   #description: > # Can be Markdown
     #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
