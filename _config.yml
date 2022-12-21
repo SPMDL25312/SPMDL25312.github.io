@@ -2,7 +2,7 @@
 title: Smart Process and Material Design Lab                        # Title in top navigation bar (navbar) and <head>
 description: Department of Chemical Engineering, SKKU # Site description in <head>
 author: S. Joon Kwon                   # Used for copyright statement in footer
-url: "https://SPMDL25312.github.io/"
+url: "https://SPMDL25312.github.io"
 baseurl: ""                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
@@ -17,7 +17,7 @@ social:
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
-tweets_on_home: true                    # Show Twitter feed of social.twitter on homepage
+tweets_on_home: false                    # Show Twitter feed of social.twitter on homepage
 archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
 github_edit: true                       # Show an "edit this page" link in the footer
 colors:
