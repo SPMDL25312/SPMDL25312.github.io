@@ -1,7 +1,7 @@
 # SITE SETTINGS
-title: Petridish                        # Title in top navigation bar (navbar) and <head>
-description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
+title: Smart Process and Material Design Lab                        # Title in top navigation bar (navbar) and <head>
+description: SKKU Chemical Engineering # Site description in <head>
+author: S. Joon Kwon                    # Used for copyright statement in footer
 url: "https://SPMDL25312.github.io"
 baseurl: " "                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
@@ -9,11 +9,11 @@ baseurl: " "                   # Only required if your site is in a directory e.
 
 # SOCIAL PROFILES
 social:
-  email: name@example.com
-  twitter: peterdesmet
-  github: github_username               # Can also be a github_username/repository
-  mastodon: https://mastodon.social/@mastodon_username
-  facebook: https://www.facebook.com/groups/group_id/
+  email: sjoonkwon@skku.edu
+  twitter: 
+  github:                # Can also be a github_username/repository
+  mastodon: 
+  facebook: 
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
