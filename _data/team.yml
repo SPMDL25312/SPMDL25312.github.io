@@ -23,7 +23,7 @@
 
 - name: Seong-Gyun Im
   role: M.S. candidate # Will appear next to name
-  image: assets/theme/images/members/sgi.JPG # Can be external link
+  image: assets/theme/images/members/sgi.jpeg # Can be external link
   #description: > # Can be Markdown
     #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
 
