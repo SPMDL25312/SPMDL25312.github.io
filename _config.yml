@@ -3,7 +3,7 @@ title: Smart Process and Material Design Lab                        # Title in t
 description: Department of Chemical Engineering, SKKU # Site description in <head>
 author: S. Joon Kwon                   # Used for copyright statement in footer
 url: "https://SPMDL25312.github.io"
-baseurl: " "                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+baseurl: "https://SPMDL25312.github.io"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
