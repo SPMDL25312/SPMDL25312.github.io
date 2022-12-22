@@ -18,3 +18,21 @@ team: team_prof
       - B.S. Chemical and Biological Engineering, Seoul National University, 2002.02   
 
   email: sjoonkwon@skku.edu
+
+team: team_stu
+
+- name: Taewoo Kang
+  role: M.S. candidate # Will appear next to name
+  image: assets/theme/images/members/twk.jpeg # Can be external link
+  email: kangtw97@skku.edu
+
+- name: Seong-Gyun Im
+  role: M.S. candidate # Will appear next to name
+  image: assets/theme/images/members/sgi.jpeg # Can be external link
+  email: isk0110@skku.edu
+  
+- name: In-Young Jung
+  role: M.S. candidate # Will appear next to name
+  image: assets/theme/images/members/iyj.jpeg # Can be external link
+  email: dadad1018@skku.edu
+  
