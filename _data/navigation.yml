@@ -6,11 +6,7 @@
   href: /research/ # Hardcoded URL
   menu: # Dropdown menu (one level deep only)
 - text: Members
-  menu: # Dropdown menu (one level deep only)
-  - text: Professor
-    href: true
-  - text: Students
-    href: true # Automatically add URL of (first) page called "Team"
+  href: true # Automatically add URL of (first) page called "Team"
 - text: Publish
   href: /publish/ # Hardcoded URL
 #- text: Documentation
