@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: Smart Process and Material Design Lab                        # Title in top navigation bar (navbar) and <head>
-description: Department of Chemical Engineering, SKKU # Site description in <head>
+title: SKKU SPMDL                      # Title in top navigation bar (navbar) and <head>
+description: Smart Process and Material Design Lab # Site description in <head>
 author: S. Joon Kwon                   # Used for copyright statement in footer
 url: "https://SPMDL25312.github.io"
 baseurl: ""                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
@@ -11,7 +11,7 @@ baseurl: ""                   # Only required if your site is in a directory e.g
 social:
   email: sjoonkwon@skku.edu
   twitter: 
-  github: "https://github.com/SPMDL25312/CoMa"             # Can also be a github_username/repository
+  github:         # Can also be a github_username/repository
   mastodon: 
   facebook: 
 
@@ -24,9 +24,10 @@ colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
-font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
+font_serif: false                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/round1.png # Logo in navbar, will be displayed with 30px height
+favicon: /assets/theme/images/favicon.ico
 remote_theme: peterdesmet/petridish@2.0
 
 # BUILD SETTINGS

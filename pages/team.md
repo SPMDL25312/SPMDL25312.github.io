@@ -1,6 +1,6 @@
 ---
 layout: team
-title: Team
-description: Who we are
-permalink: /team/
+title: Members
+description: #Who we are
+permalink: /members/
 ---
