@@ -1,5 +1,5 @@
 # SITE SETTINGS
-title: SKKU SPMDL                      # Title in top navigation bar (navbar) and <head>
+title: SPMDL                      # Title in top navigation bar (navbar) and <head>
 description: Smart Process and Material Design Lab # Site description in <head>
 author: S. Joon Kwon                   # Used for copyright statement in footer
 url: "https://SPMDL25312.github.io"

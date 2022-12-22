@@ -2,5 +2,5 @@
 layout: team
 title: Members
 description: Professor
-permalink: /members/
+permalink: /members/team_prof
 ---
