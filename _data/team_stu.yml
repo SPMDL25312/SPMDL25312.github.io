@@ -1,21 +1,6 @@
 # Project team members listed below will appear on the /team page
 
-- name: Professor S. Joon Kwon
-  role: Assistant Professor
-  image: assets/theme/images/members/sjk.png
-  description: >
-    - Professional Appointments
-      - Assistant Professor. Chemical Engineering, Sungkyunkwan University (SKKU), 2021.03 - Present   
-      - Senior Researcher. Advanced Materials Technology Research Division, Korea Institute of Science and Technology (KIST), 2019.03 - 2021.02   
-      - Research Engineer. Future Convergence Technology Research Division, Korea Institute of Science and Technology (KIST), 2014.03 - 2019.02   
-      - Researcher. Material Research Department, Korea Institute of Science and Technology (KIST), 2014.03 - 2019.02   
-
-    - Academic Education
-      - Ph.D. Chemical Engineering, Massachusetts Institute of Technology (MIT), 2013.06   
-      - M.S. Chemical and Biological Engineering, Seoul National University, 2004.02   
-      - B.S. Chemical and Biological Engineering, Seoul National University, 2002.02   
-
-  email: sjoonkwon@skku.edu
+team: team_stu
 
 - name: Taewoo Kang
   role: M.S. candidate # Will appear next to name
