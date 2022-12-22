@@ -6,26 +6,14 @@ team: team_stu
   role: M.S. candidate # Will appear next to name
   image: assets/theme/images/members/twk.jpeg # Can be external link
   email: kangtw97@skku.edu
-  #description: > # Can be Markdown
-    #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  #orcid: 0000-0000-0000-0000
-  #researchgate: researchgate_username
-  #googlescholar: googlescholar_username
-  #twitter: twitter_username
-  #mastodon: https://mastodon.social/@mastodon_username
-  #github: github_username
-  #email: name@example.com
 
 - name: Seong-Gyun Im
   role: M.S. candidate # Will appear next to name
   image: assets/theme/images/members/sgi.jpeg # Can be external link
   email: isk0110@skku.edu
-  #description: > # Can be Markdown
-    #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-
+  
 - name: In-Young Jung
   role: M.S. candidate # Will appear next to name
   image: assets/theme/images/members/iyj.jpeg # Can be external link
   email: dadad1018@skku.edu
-  #description: > # Can be Markdown
-    #Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
+  

@@ -27,7 +27,6 @@ colors:
 font_serif: false                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/round1.png # Logo in navbar, will be displayed with 30px height
-favicon: /assets/theme/images/favicon.ico
 remote_theme: peterdesmet/petridish@2.0
 
 # BUILD SETTINGS
